@@ -10,5 +10,5 @@ Anyhow, I threw together a very simple Python script that will build `.markdown`
 
 ## Requirements
 
-markdown
-Jinja2
+- markdown
+- Jinja2
